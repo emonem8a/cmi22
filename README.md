@@ -1,91 +1,74 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (VAN FROG´S FOLIO)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto(VAN FROG´S FOLIO)
 
-**Web:**   (url github.io)
+**Web:**  https://github.com/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Alejandro Manzanares Ochoa)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto enseña mis distintas aficiones como la música, el dibujo, la pintura, etc. Todo ello acompañado de un personaje creado por mí llamado Van Frog, el cual sirve para volver al menú y de logo del proyecto.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Este trabajo es un portfolio.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![Ilustración_sin_título-1](https://user-images.githubusercontent.com/107252013/173078372-4f2b9ecc-4bb5-46fe-a147-00157572d3f7.png)
 
-(insertar imágenes a resolucion de 100px alto)
+Me parece adecuado que sea mi logotipo ya que es el icono principal del trabajo
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 500x700px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  El proyecto ha sido probado en Google Chrome e hippani
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 51.9MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC 
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github:emonem8a
+- Twitter: EMONEM13
+- Instagram: em0nem8a
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard y  2.2. Esquema de navegación : 
 
 
+![WhatsApp Image 2022-06-10 at 4 55 29 PM](https://user-images.githubusercontent.com/107252013/173093250-a832c237-062e-4c79-94d4-8c5d02cd0a8a.jpeg)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Tras la intro de Van Frog, en la cual se presenta, se dirige al espectador a un menú en el que puede seleccionar 3 opciones diferentes: dibujo, pintura y "quién soy", en esta última hay dos partes:
+-Audio: donde puede ver música que me gusta y configurar el volumen
+-Video: donde le aparecerá un video mío tocando la guitarra.
 
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+En la parte de dibujo se podrán ver dibujos míos y en pintura un par de las mismas.
 
 
 # 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
+He trabajado antes en Illustrator, Indesign y Photoshop.
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+**Investigación de campo** 
+Para conseguir inspiración e influenciarme estuve echándole un ojo a los trabajos puestos de ejemplo en prado de alumnos anteriores y también pedí consejo a mis compañeros de clase, no solo eso sino comparar mis ideas con las suyas, me sirvió bastante.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante si tienes curiosidad por conocer un poco mi lado artístico, creo que es interesante ver los distintos estilos artísticos de cada uno para saber apreciar todas las diferentes variables del arte, e incluso poder así mejorar tu propio estilo aplicando lo que aprendes. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
@@ -93,43 +76,36 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
+Las animaciones que implican dibujos hechos por mí(como el menú y la intro) estan hecha a base de superposición de fotogramas, controlando el debido tiempo de duración para la comodidad del lector(sobretodo en las partes que contienen texto).
+-Audio: Green Day-Scattered, Red Hot Chili Peppers-Aquatic Mouth Dance y Stray Cats-I won´t stand in your way.
 - Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Configuración y ayuda al usuario 
+- Menús y elementos de navegación (botones y teclas)
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Considero que hippani presenta algunas dificultades a la hora de trabajar, como ciertos fallos ilógicos. Por otra parte era complicado programar correctamente, sobretodo el hecho de que a veces, un mínimo fallo podía incordiar en todo el trabajo, y encontrarlo sule ser bastante laborioso.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Creo que con mayor tiempo de trabajo podría haber logrado un trabajo mejor, hay ciertas cosas que me hubiera gustado meter y no pudeo o pulir otras, sin embargo considero que muchas han quedado bien y estoy satisfecho de haber sabido resolver incógnitas y problemas que me surgían. También me satisface el hecho de haber aprendido algo nuevo este curso que espero aplicar en un fututo a otros proyectos.
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Ejercicios de ejemplo de prado y de compañeros de clase.
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Green Day-Scattered, Red Hot Chili Peppers-Aquatic Mouth Dance y Stray Cats-I won´t stand in your way.
+* Imágenes: de Google, Pinterest, mi galería y dibujos hechos en Ipad
+* Tipografía: Lucida Sans e Impact
 
 **Herramientas utilizadas**
 
@@ -142,4 +118,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022

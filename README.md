@@ -40,23 +40,16 @@ Me parece adecuado que sea mi logotipo ya que es el icono principal del trabajo
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard y 2.2. Esquema de navegación 
+
+Tras la intro de Van Frog, en la cual se presenta, se dirige al espectador a un menú en el que puede seleccionar 3 opciones diferentes: dibujo, pintura y "quién soy", en esta última hay dos partes:
+-Audio: donde puede ver música que me gusta y configurar el volumen
+-Video: donde le aparecerá un video mío tocando la guitarra.
+
+En la parte de dibujo se podrán ver dibujos míos y en pintura un par de las mismas.
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![WhatsApp Image 2022-06-10 at 4 55 28 PM](https://user-images.githubusercontent.com/107252013/173126167-7c9072d4-e8dc-4f75-873e-ab29f4d8a6f3.jpeg)
 
 
 

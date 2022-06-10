@@ -1,6 +1,6 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (VAN FROG´S FOLIO)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -111,7 +111,7 @@ Este  proyecto es interesante porque ...
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Creo que con mayor tiempo de trabajo podría haber logrado un trabajo mejor, hay ciertas cosas que me hubiera gustado meter y no pudeo o pulir otras, sin embargo considero que muchas han quedado bien y estoy satisfecho de haber sabido resolver incógnitas y problemas que me surgían. También me satisface el hecho de haber aprendido algo nuevo este curso que espero aplicar en un fututo a otros proyectos.
 
 
 
